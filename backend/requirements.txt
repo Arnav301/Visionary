@@ -1,0 +1,10 @@
+opencv-python
+pytesseract
+pillow
+google-generativeai
+numpy
+flask
+flask-cors
+sqlalchemy
+python-dotenv
+requests
