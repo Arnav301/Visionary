@@ -16,7 +16,7 @@ It’s especially useful for terminal monitoring and quick screen summaries.
 # 🛠️ Installation
 
 1. Clone the repository
-git clone https://github.com/yourusername/visionary.git
+git clone https://github.com/Arnav301/Visionary.git
 cd visionary
 
 2. Install dependencies
